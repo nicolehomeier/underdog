@@ -26,6 +26,15 @@ body{
   	url('assets/ken-reid-290762-rect.jpeg') 0% 0%/cover no-repeat
 }
 
+#services {
+	background: rgb(80,161,183);
+}
+
+#rates-sidebar {
+	background: 
+  	url('assets/anita-peeples-35219.jpg') 0% 0%/cover no-repeat
+}
+
 .fill-viewport {
   	min-height: 85vh; 
 }
